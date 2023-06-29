@@ -1,3 +1,9 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
 - 👋 Hi, I’m @StandardL
 - 👀 I’m interested in C++,Python,and AI.
 - 🌱 I’m currently learning C++, Python and C#.
